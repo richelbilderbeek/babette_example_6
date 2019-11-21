@@ -9,7 +9,7 @@ A [babette example](https://github.com/richelbilderbeek/babette_examples).
 
 ## Example #6: Yule tree prior with a normally distributed birth rate
 
-![Example #6: Yule tree prior with a normally distributed birth rate](birth_rate_normal_2_4.png)
+![Example #6: Yule tree prior with a normally distributed birth rate](pics/birth_rate_normal_2_4.png)
 
 ```{r example_6}
 posterior <- bbt_run(
